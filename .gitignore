@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+venv
+docker/.DS_Store
+.DS_Store
