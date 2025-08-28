@@ -419,3 +419,4 @@ FodyWeavers.xsd
 venv
 docker/.DS_Store
 .DS_Store
+app/.env
